@@ -18,8 +18,8 @@ In the end, XGBoost Regression has the best result. I truely believe there still
 
 Reference:
 
-1.insideairbnb
+1.insideairbnb : http://insideairbnb.com/
 
-2.Predicting Airbnb prices with machine learning and location data
+2.Predicting Airbnb prices with machine learning and location data : https://towardsdatascience.com/predicting-airbnb-prices-with-machine-learning-and-location-data-5c1e033d0a5a#c97f
 
-3.Predicting Airbnb prices with machine learning and deep learning
+3.Predicting Airbnb prices with machine learning and deep learning : https://towardsdatascience.com/predicting-airbnb-prices-with-machine-learning-and-deep-learning-f46d44afb8a6
