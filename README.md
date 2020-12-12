@@ -13,7 +13,7 @@ Second, in order to train model, some feature I do one-hot encode, some huge num
 
 Third, I use six different model to predict. They are Linear Regression, Ridge Regression, Random forest Regression, XGBoost Regression, Neural Network with L1 Regularizers, Neural Network with L2 Regularizers.
 
-In the end, Neural Network with L1 Regularizers has the best result. I truely believe there still have a lot of things that I can imporve the result.
+In the end, XGBoost Regression has the best result. I truely believe there still have a lot of things that I can imporve the result.
 
 
 Reference:
