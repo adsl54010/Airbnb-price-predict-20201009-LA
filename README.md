@@ -3,7 +3,7 @@ predict airbnb price with 20201009 LA data
 
 colab link :https://colab.research.google.com/drive/136zXQteY5fdm5RpSNzx52WsQpb3g07ln?usp=sharing
 
-In this project, I am trying to predict LA airbnb price with data getting from insideairbnb.com and finally I got a 0.6 r2 score.
+In this project, I am trying to predict LA airbnb price with data getting from insideairbnb.com and finally I got a 0.7 r2 score.
 
 There are three sections.
 
